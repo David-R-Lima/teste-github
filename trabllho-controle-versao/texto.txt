@@ -1,1 +1,3 @@
-Este é um experimento de git, agora vou usar alguns comandos.
+Este é um experimento de git, agora vou usar alguns comand
+Eu acabei de criar u m repositorio, adicionar as mudanças e commitar elas.
+Agora vou subir meu cogido para um repositorio.
